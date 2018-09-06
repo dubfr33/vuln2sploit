@@ -16,5 +16,3 @@ Script to deploy DVWA with slight modifications. Includes a metasploit auxiliary
 12. Click the login button or browse to http://127.0.0.1/dvwa/login.php
 13. At this point you should see a login page for the DVWA application and setup is complete
 
-# Contact Info
-Feel free to reach out via email with any questions/comments via k0rat@protonmail.com
